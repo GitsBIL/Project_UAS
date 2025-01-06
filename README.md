@@ -83,3 +83,7 @@ Metode seperti tambah_sampah, hapus_sampah, ubah_sampah, dan lihat_sampah diimpl
                -Jika memilih 5, program akan berhenti
 
 ![Gambar](./Gambar/Gambar%204.png)
+
+## Hasil Code Program
+
+![Gambar](./Gambar/Gambar%205.png)
